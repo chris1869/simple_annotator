@@ -37,3 +37,7 @@ python server.py
 # See the app in action
 
 ![Alt Text](manual.gif)
+
+# Exemplary results of the annotator_conf.json
+
+![Alt Text](result_annotation.png)
